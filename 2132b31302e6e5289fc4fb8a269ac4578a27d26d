@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "847bc5c1_321078d3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000591
+      },
+      "writtenOn": "2021-12-15T10:43:50Z",
+      "side": 1,
+      "message": "fixes this neverallows\n\nlibsepol.report_failure: neverallow on line 774 of system/sepolicy/public/domain.te (or line 13500 of policy.conf) violated by allow vendor_location_app qmuxd_socket:sock_file { create setattr unlink };\nlibsepol.report_failure: neverallow on line 731 of system/sepolicy/public/domain.te (or line 13411 of policy.conf) violated by allow vendor_location_app qmuxd:unix_stream_socket { connectto };",
+      "revId": "2132b31302e6e5289fc4fb8a269ac4578a27d26d",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    }
+  ]
+}
