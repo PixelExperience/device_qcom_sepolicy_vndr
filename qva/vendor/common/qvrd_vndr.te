@@ -61,6 +61,7 @@
 
 type vendor_qvrd_vndr, domain, mlstrustedsubject;
 type vendor_qvrd_vndr_exec, vendor_file_type, exec_type, file_type;
+typeattribute vendor_qvrd_vndr hal_camera_client;
 
 init_daemon_domain(vendor_qvrd_vndr)
 
