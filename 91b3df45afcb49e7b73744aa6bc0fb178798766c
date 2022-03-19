@@ -33,6 +33,24 @@
       "message": "Looks good to me, but I have no way of verifying it.",
       "revId": "91b3df45afcb49e7b73744aa6bc0fb178798766c",
       "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ed6805ca_cd8c87cf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000411
+      },
+      "writtenOn": "2022-03-19T05:03:55Z",
+      "side": 1,
+      "message": "wakeup/wakeup is messed up on others boards as well but I\u0027ve verified (\u0026 hence uploaded change) on 6150 \u0026 8150 only\nmaybe zidan can verify and give verified+1 xD",
+      "parentUuid": "522b4770_0f54e94d",
+      "revId": "91b3df45afcb49e7b73744aa6bc0fb178798766c",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
     }
   ]
 }
