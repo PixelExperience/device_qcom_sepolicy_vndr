@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bdf70a7f_bce5f15f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000411
+      },
+      "writtenOn": "2022-03-19T04:52:46Z",
+      "side": 1,
+      "message": "sidenote: also `qva/vendor/atoll/genfs_contexts#L65`\nit should be pm6150_rtc/wakeup instead of pm6150_rtc/rtc0/wakeup but idk caf does messed up stuff",
+      "revId": "91b3df45afcb49e7b73744aa6bc0fb178798766c",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    }
+  ]
+}
