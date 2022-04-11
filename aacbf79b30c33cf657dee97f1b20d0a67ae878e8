@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a595edae_f2e327f7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000126
+      },
+      "writtenOn": "2022-04-11T13:51:31Z",
+      "side": 1,
+      "message": "We\u0027ve switched to the twelve branch for all devices.",
+      "revId": "aacbf79b30c33cf657dee97f1b20d0a67ae878e8",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    }
+  ]
+}
